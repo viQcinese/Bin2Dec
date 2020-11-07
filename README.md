@@ -20,3 +20,7 @@ constraints:
 ## Bonus features
 
 -   [x] User can enter a variable number of binary digits
+
+## Visual
+
+<img src="https://github.com/viQcinese/documentation/blob/master/bin2dec/bin2dec.gif?raw=true"/>
