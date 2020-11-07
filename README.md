@@ -1,6 +1,5 @@
 # Bin2Dec
 
-## About
 This application was built as a simple coding challenge proposed in [this repository](https://github.com/florinpop17/app-ideas/blob/master/Projects/1-Beginner/Bin2Dec-App.md)
 
 The challenge requires that the developer implementing it follow these
